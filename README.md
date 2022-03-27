@@ -22,5 +22,5 @@
   <h4>Case 3 : If you try to update a word with already existing word it will give you an error</h4>
   <h4>Case 4 : If you try t0 update one word with multiple it will give you an error</h4>
   
-  <h4>Link for the deployed app</h4>
-  <h3><p>https://incubyte-fullstack.herokuapp.com/</a></h3>
+  <h3><b>Link for the deployed app</b></h3>
+  <h4><p>https://incubyte-fullstack.herokuapp.com/</a></h4>
