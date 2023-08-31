@@ -1,26 +1,58 @@
-<h1>[Problem statement]</h1>
-  <h4>Develop a pseudo full-stack application in any tech stack which lists and show all words added to the database.</h4>
-  <h1>[Solution]</h1>
-  <h4>This application is build in respect to the above mentioned problem.The name given to this application is DETool , which basically means data entry tool . This application is capable of adding , deleting and modifying data present in a database.</h4>
-  <h3>Technologies used in the application</h3>
-  <ul type="disc">
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>bootstrap</li>
-    <li>Python-Flask</li>
-  </ul>
-  <h3>Features inculed in the application</h3>
-  <ul type="disc">
-    <li>Add : To add a word to the database</li>
-    <li>Delte : To delete a word from the database</li>
-    <li>Update : To replace a existing word from the database</li>
-    <li>View : To view all the records in the database</li>
-  </ul>
-  <h3>Cases that have been taken in consideration while developing the application</h3>
-  <h4>Case 1 : If you try to add more than one word it will give you an error</h4>
-  <h4>Case 2 : If you try to enter already existing word in a database it will give you can error</h4>
-  <h4>Case 3 : If you try to update a word with already existing word it will give you an error</h4>
-  <h4>Case 4 : If you try t0 update one word with multiple it will give you an error</h4>
-  
-  <h3><b>Link for the deployed app</b></h3>
-  <h4><p>https://incubyte-fullstack.herokuapp.com/</a></h4>
+<!-- DETool: Data Entry Tool Application README -->
+
+<h1 align="center">DETool: Data Entry Tool Application</h1>
+
+<p align="center">
+  Welcome to DETool, your data entry solution! Effortlessly manage your database entries with an intuitive interface.
+</p>
+
+<div align="center">
+  <a href="#problem-statement">Problem Statement</a> •
+  <a href="#solution">Solution</a> •
+  <a href="#technologies-used">Technologies Used</a> •
+  <a href="#features">Features</a> •
+  <a href="#considerations">Considerations</a> •
+  <a href="#deployed-app">Deployed App</a>
+</div>
+
+---
+
+## Problem Statement
+
+Develop a pseudo full-stack application in any tech stack which lists and shows all words added to the database.
+
+## Solution
+
+DETool, short for Data Entry Tool, is the answer to the challenge. Crafted with HTML, CSS, Bootstrap, and powered by Python-Flask, this application streamlines the management of database entries.
+
+## Technologies Used
+
+- HTML
+- CSS
+- Bootstrap
+- Python-Flask
+
+## Features
+
+- **Add:** Seamlessly introduce new words to the database.
+- **Delete:** Effortlessly remove words from the database.
+- **Update:** Replace existing words with ease.
+- **View:** Explore all records within the database.
+
+## Considerations
+
+DETool's design accounts for various scenarios:
+
+- **Case 1:** Prevents adding multiple words at once.
+- **Case 2:** Safeguards against adding existing words to the database.
+- **Case 3:** Blocks updating with an already existing word.
+- **Case 4:** Ensures updating one word with multiple is disallowed.
+
+## Deployed App
+
+Experience DETool live at:
+[DETool App](https://incubyte-fullstack.herokuapp.com/)
+
+## Seamlessly Manage Your Data with DETool
+
+Efficiency meets simplicity with DETool. Empower your data entry experience, enhance your database management, and make data magic! 📊✨
